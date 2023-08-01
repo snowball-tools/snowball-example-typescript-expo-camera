@@ -13,5 +13,3 @@ To run the app in development mode, use:
 ```bash
 yarn start
 ```
-
-# SnowballExampleTypescriptExpoCamera
